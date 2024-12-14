@@ -3,8 +3,22 @@
 
 There is an NBFC(non-banking-financial-company) company called Loki finance, which provides lones to persons who are not able to get loans from traditional banks Loki finance will get data from credit bureau then loki finance will built scoring models(ML model)-> it will tell wheather you are very strong interms of getting loan.
 
+## Project Structure
 
-## Appendix
+- **artifacts/**: Contains models joblib files.
+- **main**: Contains actual streamlit codes.
+- **prediction_helper**: contains methods used to load models and predict the output and display it in frontend
+- **requirements.txt**: Lists the required Python packages.
+- **README.md**: Provides an overview and instructions for the project.
+
+## Skills gained
+- **Machine learning**
+- **Data cleaning**
+- **EDA**
+- **Data preprocessing**
+
+
+## Project Explanation
 
 These are the steps I followed during this project:
 1. Data cleaning
@@ -43,15 +57,19 @@ https://ml-project-credit-risk-modeling.streamlit.app/
 ![App Screenshot](https://github.com/siddu28/ML-project-credit-risk-model/blob/main/Screenshot%202024-11-25%20230508.png)
 
 
-## Installation
+## Setup Instructions
 
-Install my-project
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/siddu28/ML-proj
 
-```bash
-  pip install -r requirements.txt
-```
+1. **Install dependencies:**:   
+   ```commandline
+    pip install -r requirements.txt
+   ```
 
-```
-  streamlit run main.py  
-```
+1. **Run the Streamlit app:**:   
+   ```commandline
+    streamlit run main.py
+   ```
     
