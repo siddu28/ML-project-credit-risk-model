@@ -64,7 +64,7 @@ https://github.com/user-attachments/assets/211760da-1142-4260-93a0-6526fbb9ea39
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/siddu28/ML-proj
+   https://github.com/siddu28/ML-project-credit-risk-model.git
 
 1. **Install dependencies:**:   
    ```commandline
