@@ -56,6 +56,9 @@ https://ml-project-credit-risk-modeling.streamlit.app/
 
 ![App Screenshot](https://github.com/siddu28/ML-project-credit-risk-model/blob/main/Screenshot%202024-11-25%20230508.png)
 
+## Demo video
+https://github.com/user-attachments/assets/211760da-1142-4260-93a0-6526fbb9ea39
+
 
 ## Setup Instructions
 
